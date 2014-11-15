@@ -1,8 +1,23 @@
-$brand-primary: #c0392b;
+  /*  Import Google Font  */
+ @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
 
-@import 'bootstrap';
+ /*  Nav Bar Background  */
+$navbar-default-bg: #F9DF00;
+
+ /*  Link  */
+$brand-primary: #1F51A4;
+
+$body-bg: #ecf0f1;
+$jumbotron-bg: #FFFFFF;
+
+$font-family-sans-serif:'Open Sans', sans-serif;
+
+
+@import 'bootstrap'
 
  /* 
  http://getbootstrap.com/customize/  
  https://onemonth.com/courses/one-month-rails/steps/customizing-bootstrap http://flatuicolors.com/  
  */
+
+
